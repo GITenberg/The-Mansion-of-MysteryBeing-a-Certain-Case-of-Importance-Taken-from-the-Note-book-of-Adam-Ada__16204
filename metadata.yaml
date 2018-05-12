@@ -1,0 +1,28 @@
+_repo: The-Mansion-of-MysteryBeing-a-Certain-Case-of-Importance-Taken-from-the-Note-book-of-Adam-Ada__16204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steele, Chester K.
+    gutenberg_agent_id: '652'
+    url: http://www.gutenberg.org/2009/agents/652
+    wikipedia: http://en.wikipedia.org/wiki/Chester_K._Steele
+description: ''
+gutenberg_issued: '2005-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: 'The Mansion of Mystery
+
+  Being a Certain Case of Importance, Taken from the Note-book of Adam Adams, Investigator
+  and Detective'
+url: http://www.gutenberg.org/ebooks/16204
