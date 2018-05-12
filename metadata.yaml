@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/652
     wikipedia: http://en.wikipedia.org/wiki/Chester_K._Steele
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16204#The-Mansion-of-MysteryBeing-a-Certain-Case-of-Importance-Taken-from-the-Note-book-of-Adam-Ada_
 gutenberg_issued: '2005-07-04'
 gutenberg_type: Text
 identifiers:
